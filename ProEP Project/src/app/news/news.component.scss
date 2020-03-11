@@ -1,0 +1,93 @@
+    .headButt{
+        font-size: 13px;
+    }
+    .headButt:hover{
+        text-decoration: underline;
+    }
+    .headButt2{
+        font-size: 13px;
+        position: absolute;
+        right: 60px;
+    }
+    .headButt2:hover{
+        text-decoration: underline;
+    }
+    #pressed{
+        color: gray;
+    }
+    .vl{
+        border-right: 2px solid;
+        height: 20px;
+        position: absolute;
+        left: 50%;
+        margin-left: 25px;
+        top: 0;
+    }
+    .vl2{
+        border-right: 2px solid;
+        height: 20px;
+        position: absolute;
+        left: 50%;
+        margin-left: 35px;
+        top: 0;
+    }
+     #newsBox{
+        width: 55%;
+        height: 775px;
+        border: 3px solid;
+        position: absolute;
+        left:350px;
+    }
+    #trend1{
+        position: relative;
+        width: 450px;
+        height: 175px;
+        left: 22%;
+        top: 20px;
+    }
+    #titleTrendingBox{
+        width: 70px;
+        height: 30px;
+        position: absolute;
+        margin-top:-12px;
+        margin-left:20px;
+        background-color:white;
+        font-style: italic;
+        background-color:#F5F5F5;
+        text-align: center;
+    }
+    .trendText{
+        position: relative;
+        width: 400px;
+        height: 130px;
+        top: 150px;
+        left: 35px;
+    }
+    .trendPic{
+        position: absolute;
+        width: 400px;
+        height: 130px;
+        border: 3px solid;
+        top: 20px;
+        right: 15px;
+        background-color: coral;
+    }
+    #trend2{
+        position: relative;
+        width: 450px;
+        height: 175px;
+        left: 22%;
+        top: 50px;
+    }
+    #trend3{
+        position: relative;
+        width: 450px;
+        height: 175px;
+        left: 22%;
+        top: 80px;
+    }
+
+    #wrapper{
+        margin-top:50px;
+    }
+  

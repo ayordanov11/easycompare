@@ -1,0 +1,29 @@
+#sideBar{
+    position: absolute;
+    display: inline-block;
+    width: 250px;
+    margin-left: 20px;
+    margin-top: 30px;
+    background-color: orange;
+}
+a{
+    padding-bottom: 60px;
+    margin-right: 210px;
+    text-decoration: none;  
+}
+.link{
+    cursor: pointer;
+    border-left:2px solid black;
+    border-right:2px solid black;
+    border-top:2px solid black;
+    padding-top: 15px;
+}
+
+.product{
+    margin-right: 30px;
+}
+
+#productContainer{
+    margin-left: 290px;
+    display:inline-block;
+}

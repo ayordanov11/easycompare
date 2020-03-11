@@ -1,0 +1,182 @@
+  .headButt{
+      font-size: 13px;
+  }
+  .headButt:hover{
+      text-decoration: underline;
+  }
+  .headButt2{
+      font-size: 13px;
+      position: absolute;
+      right: 60px;
+  }
+  .headButt2:hover{
+      text-decoration: underline;
+  }
+  #pressed{
+      color: gray;
+  }
+  .vl{
+      border-right: 2px solid;
+      height: 20px;
+      position: absolute;
+      left: 50%;
+      margin-left: 25px;
+      top: 0;
+  }
+  .vl2{
+      border-right: 2px solid;
+      height: 20px;
+      position: absolute;
+      left: 50%;
+      margin-left: 35px;
+      top: 0;
+  }
+  #newLaptopsBox{
+      width: 275px;
+      height: 300px;
+      border: 3px solid;
+      position: absolute;
+      left:50px;
+      text-align: center;
+  }
+  #laptop1{
+      position: relative;
+      width: 230px;
+      height: 120px;
+      border: 3px solid;
+      left: 20px;
+      top: 20px;
+      background-color: coral;
+  }
+  #laptop2{
+      position: relative;
+      width: 230px;
+      height: 120px;
+      border: 3px solid;
+      left: 20px;
+      top: 35px;
+      background-color: coral;
+  }
+  #titleLaptopsBox{
+      width: 95px;
+      height: 30px;
+      position: absolute;
+      margin-top:-12px;
+      margin-left:20px;
+      background-color:#F5F5F5;
+      font-style: italic;
+  }
+  #newsBox{
+      width: 275px;
+      height: 300px;
+      border: 3px solid;
+      position: absolute;
+      left:50px;
+      top: 460px;
+  }
+  #titleNewsBox{
+      width: 45px;
+      height: 30px;
+      position: absolute;
+      margin-top:-12px;
+      margin-left:20px;
+      background-color:#F5F5F5;
+      font-style: italic;
+      text-align: center
+  }
+   #trendingBox{
+      width: 500px;
+      height: 635px;
+      border: 3px solid;
+      position: absolute;
+      left:400px;
+      margin-left: 60px;
+  }
+  #trend1{
+      position: relative;
+      width: 450px;
+      height: 175px;
+      left: 20px;
+      top: 20px;
+  }
+  #titleTrendingBox{
+      width: 70px;
+      height: 30px;
+      position: absolute;
+      margin-top:-12px;
+      margin-left:20px;
+      background-color:#F5F5F5;
+      font-style: italic;
+      text-align: center;
+  }
+  .trendText{
+      position: relative;
+      width: 250px;
+      height: 130px;
+      top: 20px;
+      left: 15px;
+  }
+  .trendPic{
+      position: absolute;
+      width: 150px;
+      height: 130px;
+      border: 3px solid;
+      top: 20px;
+      right: 15px;
+      background-color: coral;
+  }
+  #trend2{
+      position: relative;
+      width: 450px;
+      height: 175px;
+      left: 20px;
+      top: 20px;
+  }
+  #trend3{
+      position: relative;
+      width: 450px;
+      height: 175px;
+      left: 20px;
+      top: 20px;
+  }
+  #slideshowBox{
+      width: 350px;
+      height: 350px;
+      border: 3px solid;
+      position: absolute;
+      right: 50px;
+      background-color: coral;
+  }
+  input[type=radio] {
+  border: 0px;
+  width: 100%;
+  height: 1.5em;
+  }
+  #radio1{
+      position: relative;
+      top: 350px;
+      right: 75px;
+  }
+  #radio2{
+      position: relative;
+      top: 320px;
+  }
+  #radio3{
+      position: relative;
+      top: 290px;
+      left: 75px;
+  }
+  
+  #addBox{
+      width: 350px;
+      height: 200px;
+      border: 3px solid;
+      position: absolute;
+      top: 530px;
+      right: 50px;
+      background-color:cornflowerblue;
+  }
+
+  #wrapper{
+      margin-top:50px;
+  }
